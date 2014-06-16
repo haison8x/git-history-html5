@@ -1,0 +1,13 @@
+
+*.suo
+/MVCBuilder/bin
+/MVCBuilder/obj
+/TestWhitespaceTrimming/bin
+/RazorWhitespaceTrimming/bin
+/RazorWhitespaceTrimming/obj
+/RazorWhitespaceTrimming/obj
+/RazorWhitespaceTrimming/bin
+/TestWhitespaceTrimming/obj
+/GitHistoryHtml5/bin
+/GitHistoryHtml5/obj
+/GitHistoryHtml5.suo
